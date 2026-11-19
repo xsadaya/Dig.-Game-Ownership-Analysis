@@ -6,7 +6,7 @@
 
 ## Overview
 
-A team academic project investigating what digital distribution means for access to video games, especially titles no longer available for purchase.
+A team project researching what digital ownership means for access to video games, especially titles no longer available for purchase.
 
 ## Research questions
 
